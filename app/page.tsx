@@ -55,7 +55,7 @@ export default function HomePage() {
         className="text-center mb-12 pt-8"
       >
        <h1 className="font-extrabold text-5xl md:text-6xl bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent mb-2 text-balance">
-  Öğrenme Zamanı v2
+  Öğrenme Zamanı!
 </h1>
         <p className="text-xl text-muted-foreground font-semibold">Hadi öğrenmeye başlayalım!</p>
       </motion.header>
